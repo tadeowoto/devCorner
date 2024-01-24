@@ -1,0 +1,18 @@
+*{
+    /* colors */
+    --main-dark-bg:#0E0E10;
+    --title-color:#D7D8DA;
+    --highlight-color: #4F43C4;
+
+    /* fonts */
+
+    --font-primary: 'Montserrat', sans-serif;
+    --font-secondary: 'Roboto', sans-serif;
+
+    /* weight */
+
+    --bold:700;
+    --medium:500;
+    --light:400;
+
+}
